@@ -1,0 +1,29 @@
+.sidebar{
+    display: block;
+    margin: auto;
+    position: absolute;
+    border: 1px solid red;
+    left: 0px;
+    height: 100vh;
+    width: 30vw;
+    padding-top: 30px;
+}
+
+.personal-displayed{
+    display: block;
+    margin: auto;
+    position: absolute;
+}
+
+.personal-hidden{
+    display: none;
+    height: 0px;
+}
+
+input{
+    width: 97%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    font-size: 20px;
+}
